@@ -2,7 +2,7 @@ Here you can find my processing-projects created at FH Potsdam!:sparkles:
 
 # Project 1: Blabla
 ![Star](/star.png)
-<em>With this sketch you can draw a beautiful white star with your mouse, which consists out of triangles. If you press the mouse, the drawing color changes to green.</em>
+<br>With this sketch you can draw a beautiful white star with your mouse, which consists out of triangles. If you press the mouse, the drawing color changes to green.
 <br><br><br><br>
 
 # Project 2: Blabla
