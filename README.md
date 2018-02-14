@@ -2,7 +2,7 @@ Here you can find my processing-projects created at FH Potsdam!:sparkles:
 
 # Project 1: Blabla
 ![Star](/star.png)
-This sketch displays xxx. If you press the mouse xxx.
+<em>With this sketch you can draw a beautiful white star with your mouse, which consists out of triangles. If you press the mouse, the drawing color changes to green.</em>
 <br><br><br><br>
 
 # Project 2: Blabla
@@ -12,7 +12,7 @@ Description
 <br><br><br><br>
 
 # Project 3: Song Control Wristband
-![MYO](/myo.png)
+![MYO](/myo.jpg)
 
 With this sketch you can control your favorite song! Play it, pause it, change the speed by using simple hand gestures while wearing the MYO wristband: https://www.myo.com. 
 Connect the wristband, choose your song and control it easily with natural gestures: 
