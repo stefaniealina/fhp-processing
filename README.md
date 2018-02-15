@@ -1,4 +1,4 @@
-Here you can find my processing-projects created at FH Potsdam!:sparkles:
+Here you can find my processing-projects with **Processing 3** created at FH Potsdam!:sparkles:
 
 # Project 1: Million Summit Star
 ![Star](img/star.png)
